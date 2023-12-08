@@ -172,11 +172,12 @@ address {
 	}
 
 	.artidiv {
-		width: 50%;
+		width: 52%;
 	}
 
 	.article {
-		width: 50%;
+		width: 48%;
+		height: 400px;
 	}
 
 	.img {
@@ -194,11 +195,11 @@ address {
 	}
 
 	.artidiv {
-		width: 50%;
+		width: 53.5%;
 	}
 
 	.article {
-		width: 50%;
+		width: 46.5%;
 	}
 
 	.img {
