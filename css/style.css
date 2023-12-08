@@ -163,6 +163,61 @@ address {
 	margin-bottom: 8px;
 }
 
+@media only screen and (max-width: 1399px) {
+	header {
+		width: 100%;
+	}
+	#page {
+		width: 100%;
+	}
+
+	.artidiv {
+		width: 50%;
+	}
+
+	.article {
+		width: 50%;
+	}
+
+	.img {
+		width: 100%;
+		height: 100%;
+	}
+}
+
+@media only screen and (max-width: 870px) {
+	header {
+		width: 100%;
+	}
+	#page {
+		width: 100%;
+	}
+
+	.artidiv {
+		width: 50%;
+	}
+
+	.article {
+		width: 50%;
+	}
+
+	.img {
+		width: 100%;
+		height: 100%;
+	}
+
+	#para2 {
+		position: relative;
+		top: 230px;
+		width: 60%;
+	}
+
+	.para_instance {
+		position: relative;
+		top: 230px;
+	}
+}
+
 @media only screen and (max-width: 600px) {
 	header {
 		width: 100%;
@@ -201,6 +256,7 @@ address {
 
 	.img {
 		width: 100%;
+		height: 100%;
 	}
 
 	.hr_title {
